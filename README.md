@@ -93,4 +93,5 @@ Kéo xuống dưới và tìm đến dòng `xpack.security.enabled` và đổi t
 Kiểm tra Elaticsearch bằng lệnh curl bằng cách gửi yêu cầu HTTP: 
 `curl -X GET "localhost:9200"`
 
-Truy cập bằng trình duyệt: `ip:9200`
+
+- Test: Truy cập bằng trình duyệt: `ip:9200`
